@@ -6,8 +6,6 @@ This script processes flow cytometry data to generate phenotypic fingerprints an
 using Hill numbers. The script is structured into several processing steps, including data transformation,
 subsampling, normalization, kernel density estimation (KDE), and diversity index calculation.
 
-# MWE for fingerprint construction and Hill number calculation
-
 ## Modules
 
 - `numpy`: For numerical operations.
